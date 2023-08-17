@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="py-4 flex items-center justify-between">
+    <div className="p-4 flex items-center justify-between">
       <div className="flex gap-x-4 items-center">
         <a href="#home" className="font-bold text-xl mr-4">
           A

@@ -18,7 +18,8 @@ const aYears = [
   { sYear: "1998", sDesc: "Lahir di Semarang, Indonesia" },
   { sYear: "2016", sDesc: "Lulus SMK TKJ (Teknik Komputer dan Jaringan)" },
   {
-    sYear: "2016 - 2018",
+    // sYear: "2016 - 2018",
+    sYear: "2016",
     sDesc: "Sempat kerja jadi tukang ketik, dan jualan online",
   },
   { sYear: "2020", sDesc: "Kerja di iCreativeLabs sebagai FE Web Developer" },

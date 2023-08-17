@@ -9,7 +9,7 @@ const Intro = () => {
 
       {/* texts */}
       <div className="text-center mb-4">
-        <p className="font-bold text-3xl">Kamiswara Angga W.</p>
+        <p className="font-bold text-2xl">Kamiswara Angga W.</p>
         <p>( Programmer / Content Creator )</p>
       </div>
 

@@ -6,12 +6,12 @@ import Socmed from "./components/Socmed";
 function App() {
   return (
     <div className="bg-gray-900 min-h-screen">
-      <div className="w-[500px] mx-auto">
+      <div className="max-w-[500px] mx-auto">
         {/* header */}
         <Header />
 
         {/* main content */}
-        <div className="py-4">
+        <div className="p-4">
           {/* pic & titles */}
           <Intro />
 
@@ -58,7 +58,7 @@ function App() {
           </div>
 
           {/* footer */}
-          <p className="text-center text-gray-500">
+          <p className="text-sm text-center text-gray-500">
             &copy; Kamiswara Angga Wijaya. All Rights Reserved.
           </p>
         </div>
